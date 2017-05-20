@@ -1,24 +1,11 @@
 <link href="https://cdn.rawgit.com/rastikerdar/samim-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 @font-face {
-  font-family: Samim;
-  src: url('Samim.eot');
-  src: url('Samim.eot?#iefix') format('embedded-opentype'),
-       url('Samim.woff') format('woff'),
-       url('Samim.ttf') format('truetype');
-  font-weight: normal;
+    font-family: "My Custom Font";
+    src: url(https://bayanbox.ir/info/9078435092672326474/B-Nazanin) format("truetype");
 }
-
-@font-face {
-  font-family: Samim;
-  src: url('Samim-Bold.eot');
-  src: url('Samim-Bold.eot?#iefix') format('embedded-opentype'),
-       url('Samim-Bold.woff') format('woff'),
-       url('Samim-Bold.ttf') format('truetype');
-  font-weight: bold;
-}
-p { 
-    font-family: 'Samim', sans-serif;
+p.customfont { 
+    font-family: "My Custom Font", Verdana, Tahoma;
 }
 </style>
 <h2 dir="rtl">خلاصه:</h2>

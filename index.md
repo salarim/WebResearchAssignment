@@ -18,7 +18,7 @@
   font-weight: bold;
 }
 p { 
-    font-family: Samim, Verdana, Tahoma;
+    font-family: 'Samim', sans-serif;
 }
 </style>
 <h2 dir="rtl">خلاصه:</h2>

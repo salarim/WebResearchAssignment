@@ -4,7 +4,7 @@
     font-family: "My Custom Font";
     src: url(https://bayanbox.ir/info/9078435092672326474/B-Nazanin) format("truetype");
 }
-p.customfont { 
+p { 
     font-family: "My Custom Font", Verdana, Tahoma;
 }
 </style>

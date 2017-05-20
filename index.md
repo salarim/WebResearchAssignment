@@ -1,4 +1,6 @@
 سلام دنیا
+<div dir="rtl">
+
 ===
 
 این یک نوشتار آزمایشی برای نمایش قابلیتهای [مارک داون](http://daringfireball.net/projects/markdown/) است.
@@ -28,3 +30,4 @@ alert("Hello World")
 ---
 - [بنیاد نرم افزار آزاد](http://www.fsf.org/)
 - [بنیاد گنو](https://www.gnu.org)
+</div>

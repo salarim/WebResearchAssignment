@@ -5,7 +5,7 @@
     src: url(https://bayanbox.ir/info/9078435092672326474/B-Nazanin) format("truetype");
 }
 p { 
-    font-family: "My Custom Font", Verdana, Tahoma;
+    font-family: "My Custom Font", sans-serif;
 }
 </style>
 <h2 dir="rtl">خلاصه:</h2>

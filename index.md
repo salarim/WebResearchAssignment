@@ -6,6 +6,7 @@
 }
 p { 
     font-family: "Arial", sans-serif;
+    color: #303030;
 }
 </style>
 <h2 dir="rtl">خلاصه:</h2>

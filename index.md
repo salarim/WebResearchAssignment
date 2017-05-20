@@ -1,11 +1,11 @@
 <link href="https://cdn.rawgit.com/rastikerdar/samim-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 @font-face {
-    font-family: "My Custom Font";
-    src: url(https://bayanbox.ir/info/9078435092672326474/B-Nazanin) format("truetype");
+    font-family: "Arial";
+    src: url(https://github.com/JotJunior/PHP-Boleto-ZF2/blob/master/public/assets/fonts/arial.ttf) format("truetype");
 }
 p { 
-    font-family: "My Custom Font", sans-serif;
+    font-family: "Arial", sans-serif;
 }
 </style>
 <h2 dir="rtl">خلاصه:</h2>

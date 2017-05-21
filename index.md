@@ -5,7 +5,7 @@
     src: url(https://github.com/JotJunior/PHP-Boleto-ZF2/blob/master/public/assets/fonts/arial.ttf) format("truetype");
 }
 p { 
-    font-family: "Arial", sans-serif;
+    font-family: "Arial", serif;
     color: #303030;
 }
 </style>

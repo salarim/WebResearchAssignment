@@ -2,7 +2,7 @@
 <style type="text/css">
 @font-face {
     font-family: "custom";
-    src: url(http://s3.picofile.com/d/7629645799/616453c2-49eb-4af3-aca9-42a23fa3ee3d/B_Nazanin.ttf) format("truetype");
+    src: url("B Nazanin_p30download.com.ttf") format("truetype");
 }
 p { 
     font-family: "custom", sans-serif;

@@ -6,6 +6,7 @@
 }
 p { 
     font-family: "custom", sans-serif;
+    font-size: large;
     color: #303030;
 }
 </style>

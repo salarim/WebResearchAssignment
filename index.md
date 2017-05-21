@@ -1,11 +1,11 @@
 <link href="https://cdn.rawgit.com/rastikerdar/samim-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 @font-face {
-    font-family: "Arial";
+    font-family: "custom";
     src: url(http://s3.picofile.com/d/7629645799/616453c2-49eb-4af3-aca9-42a23fa3ee3d/B_Nazanin.ttf) format("truetype");
 }
 p { 
-    font-family: "Arial", sans-serif;
+    font-family: "custom", sans-serif;
     color: #303030;
 }
 </style>
